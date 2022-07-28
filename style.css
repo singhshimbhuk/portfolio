@@ -35,7 +35,9 @@ font-weight: bold;
 .about{
     background-color:aliceblue;
 }
-
+.aboutme{
+    margin-top: 3rem;
+}
 
 .aboutsetting{
     margin-top: 8rem;
@@ -46,6 +48,8 @@ font-weight: bold;
 
 .card
 {
+    display: flex;
+    flex-direction: column;
     border-style: outset;
     border-color: brown;
  margin-top: 4rem;
